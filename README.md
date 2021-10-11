@@ -3,20 +3,19 @@ Project1: Tic Tac Toe
 
 How to run our project:
 javac *.java
+
 java main
 
 
 Note:
 
-1.	
-After entering the above commands, you will be ask to choose either to play
+1.	After entering the above commands, you will be ask to choose either to play
   1)	Basic 3x3 Tic-tac-toe with an agent that uses MINIMAX (Part 1) ;
   2)	Nine-board Tic-tac-toe with an agent that uses MINIMAX with alpha-beta pruning (Part 2);
   3)	Basic 3x3 Tic-tac-toe with two human player (for debug use); and
   4)	Nine-board Tic-tac-toe with two human player (for debug use).
 
-2.	
-Our part 1 performs well. However,  part 2 has some issues that the AI player may lose sometimes (I highly suspect that it      is because the cut-off depth is too shallow, <10. This is just the trade off I have to make between increasing the likelihood to win and saving both time and memory).
+2.	Our part 1 performs well. However,  part 2 has some issues that the AI player may lose sometimes (I highly suspect that it       is because the cut-off depth is too shallow, <10. This is just the trade off I have to make between increasing the               likelihood to win and saving both time and memory).
 
 
 How we built our project:
