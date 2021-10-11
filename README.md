@@ -1,7 +1,9 @@
 CSC 242 
-Project1: Tic Tac Toe
+Project1: 
+Tic Tac Toe
 
 How to run our project:
+
 javac *.java
 
 java main
